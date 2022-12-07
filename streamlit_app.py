@@ -25,7 +25,8 @@ st.set_page_config(
 col1, col2 = st.columns(spec=[10,2], gap="small")
 
 with col1:
-    st.title("Drowsiness Detection")
+    st.title("DeeVi (Drowsiness Detection Vision)")
+    st.title("Project Akhir Obscura")
     with st.container():
         c1, c2 = st.columns(spec=[1, 1])
         with c1:
