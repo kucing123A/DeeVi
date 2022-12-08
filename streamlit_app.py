@@ -16,7 +16,7 @@ alarm_file_path = os.path.join("audio", "wake_up.wav")
 # Streamlit Components
 st.set_page_config(
     page_title="Project Akhir Obscura",
-    page_icon="mbkm image.png",
+    page_icon="DeeVi.png",
     layout="wide", 
     initial_sidebar_state="expanded",
 )
